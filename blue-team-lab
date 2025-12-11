@@ -50,23 +50,23 @@ This lab focuses on attacker behavior in a Windows domain and detecting that beh
 **Screenshots:**
 
 - **Failed Login Attempts**  
-  ![Bruteforce Login Attempts](https://raw.githubusercontent.com/Omarion-Gardner/Omarion-Gardner/main/bruteforce-failed-logins.png)
+  ![Bruteforce Login Attempts](https://raw.githubusercontent.com/Omarion-Gardner/Cybersecurity-Portfolio-/main/bruteforce-failed-logins.png)
 
 - **Email Alert Notification**  
-  ![Bruteforce Email Alert](https://raw.githubusercontent.com/Omarion-Gardner/Omarion-Gardner/main/bruteforce-email-alert.png)
+  ![Bruteforce Email Alert](https://raw.githubusercontent.com/Omarion-Gardner/Cybersecurity-Portfolio-/main/bruteforce-email-alert.png)
 
 ---
 
 ### LLMNR Poisoning & Network Spoofing Detection
 
 - **Responder Attack Starting**  
-  ![Responder Start](https://raw.githubusercontent.com/Omarion-Gardner/Omarion-Gardner/main/responder-start.png)
+  ![Responder Start](https://raw.githubusercontent.com/Omarion-Gardner/Cybersecurity-Portfolio-/main/responder-start.png)
 
 - **Wireshark LLMNR Detection**  
-  ![Wireshark LLMNR Detection](https://raw.githubusercontent.com/Omarion-Gardner/Omarion-Gardner/main/wireshark-llmnr.png)
+  ![Wireshark LLMNR Detection](https://raw.githubusercontent.com/Omarion-Gardner/Cybersecurity-Portfolio-/main/wireshark-llmnr.png)
 
 - **Email Alert from SIEM**  
-  ![LLMNR Email Alert](https://raw.githubusercontent.com/Omarion-Gardner/Omarion-Gardner/main/llmnr-email-alert.png)
+  ![LLMNR Email Alert](https://raw.githubusercontent.com/Omarion-Gardner/Cybersecurity-Portfolio-/main/llmnr-email-alert.png)
 
 ---
 
