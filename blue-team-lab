@@ -42,21 +42,21 @@ This project demonstrates a hands-on lab where I tested and validated my Securit
 ### Brute Force Login Detection
 
 - **Failed Login Attempts**  
-  ![Bruteforce Login Attempts](https://raw.githubusercontent.com/Omarion-Gardner/Cybersecurity-Portfolio-/main/bruteforce-failed-logins.png)
+  ![Bruteforce Failed Logins](https://raw.githubusercontent.com/Omarion-Gardner/Purple-Team-Lab/0c42e9b52ebb76d56b90fef7cc3f44c52614bd8e/images/bruteforce-failed-logins.png)
 
 - **Email Alert Notification**  
-  ![Bruteforce Email Alert](https://raw.githubusercontent.com/Omarion-Gardner/Cybersecurity-Portfolio-/main/bruteforce-email-alert.png)
+  ![Bruteforce Email Alert](https://raw.githubusercontent.com/Omarion-Gardner/Purple-Team-Lab/0c42e9b52ebb76d56b90fef7cc3f44c52614bd8e/images/bruteforce-email-alert.png)
 
 ### LLMNR Poisoning & Network Spoofing Detection
 
 - **Responder Attack Starting**  
-  ![Responder Start](https://raw.githubusercontent.com/Omarion-Gardner/Cybersecurity-Portfolio-/main/responder-start.png)
+  ![Responder Start](https://raw.githubusercontent.com/Omarion-Gardner/Purple-Team-Lab/0c42e9b52ebb76d56b90fef7cc3f44c52614bd8e/images/responder-start.png)
 
 - **Wireshark LLMNR Detection**  
-  ![Wireshark LLMNR Detection](https://raw.githubusercontent.com/Omarion-Gardner/Cybersecurity-Portfolio-/main/wireshark-llmnr.png)
+  ![Wireshark LLMNR](https://raw.githubusercontent.com/Omarion-Gardner/Purple-Team-Lab/0c42e9b52ebb76d56b90fef7cc3f44c52614bd8e/images/wireshark-llmnr.png)
 
 - **Email Alert from SIEM**  
-  ![LLMNR Email Alert](https://raw.githubusercontent.com/Omarion-Gardner/Cybersecurity-Portfolio-/main/llmnr-email-alert.png)
+  ![LLMNR Email Alert](https://raw.githubusercontent.com/Omarion-Gardner/Purple-Team-Lab/0c42e9b52ebb76d56b90fef7cc3f44c52614bd8e/images/llmnr-email-alert.png)
 
 ---
 
