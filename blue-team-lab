@@ -37,25 +37,15 @@ This project demonstrates a hands-on lab where I tested and validated my Securit
 
 ---
 
-# Project Showcase (Click Images)
-
-## Active Directory Lab — LLMNR & Brute Force Detection
-
-This lab focuses on attacker behavior in a Windows domain and detecting that behavior with Splunk, Sysmon, and network monitoring tools.
-
----
+## Project Showcase (Click Images)
 
 ### Brute Force Login Detection
-
-**Screenshots:**
 
 - **Failed Login Attempts**  
   ![Bruteforce Login Attempts](https://raw.githubusercontent.com/Omarion-Gardner/Cybersecurity-Portfolio-/main/bruteforce-failed-logins.png)
 
 - **Email Alert Notification**  
   ![Bruteforce Email Alert](https://raw.githubusercontent.com/Omarion-Gardner/Cybersecurity-Portfolio-/main/bruteforce-email-alert.png)
-
----
 
 ### LLMNR Poisoning & Network Spoofing Detection
 
