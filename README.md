@@ -1,2 +1,63 @@
-# Cybersecurity-Portfolio-
-A hands-on cybersecurity portfolio showcasing practical projects, detection rules, and attack simulations across both red teaming (offensive) and blue teaming (defensive) disciplines. Designed to demonstrate skills in penetration testing, threat detection, incident response, and log analysis.
+# Blue Team Lab: Real-World Detection Scenarios
+
+## Overview  
+This project demonstrates a hands-on lab where I tested and validated my Security Information and Event Management (SIEM) setup using real-world attack simulations. The goal was to build an end-to-end detection and alerting workflow to strengthen my skills as a SOC analyst.
+
+---
+
+## What I Did  
+
+### Scenario 1: Brute Force Login Detection  
+- Simulated a brute force attack by entering the wrong password five times on a Windows victim machine.  
+- Configured the SIEM (Splunk) to generate immediate email alerts on repeated failed login attempts using Windows Security Event Logs (Event ID 4625).  
+
+### Scenario 2: LLMNR Spoofing Attack Detection  
+- Performed an LLMNR (Link-Local Multicast Name Resolution) spoofing attack from a Kali Linux VM using the Responder tool.  
+- Monitored network traffic in Wireshark to observe malicious LLMNR responses.  
+- Configured the SIEM to send real-time phone alerts for suspicious network activity indicating LLMNR poisoning.
+
+---
+
+## What I Learned  
+
+- How to build and test SIEM detection rules based on Windows and network logs.  
+- Real attacker techniques and how they manifest in logs and traffic.  
+- The importance of rapid alerting and incident response workflows in a SOC environment.  
+- Strengthened understanding of networking fundamentals and Windows security as I prepare for Security+ certification.
+
+---
+
+## Tools & Technologies  
+
+- Splunk (SIEM)  
+- Windows Event Logs (Security Logs)  
+- Kali Linux (Responder tool)  
+- Wireshark (Network traffic analysis)  
+- Email and phone alert integrations  
+
+---
+
+## Project Showcase (Click Images)
+
+### Brute Force Login Detection
+
+- **Failed Login Attempts**  
+  ![Bruteforce Login Attempts](https://raw.githubusercontent.com/Omarion-Gardner/Cybersecurity-Portfolio-/main/bruteforce-failed-logins.png)
+
+- **Email Alert Notification**  
+  ![Bruteforce Email Alert](https://raw.githubusercontent.com/Omarion-Gardner/Cybersecurity-Portfolio-/main/bruteforce-email-alert.png)
+
+### LLMNR Poisoning & Network Spoofing Detection
+
+- **Responder Attack Starting**  
+  ![Responder Start](https://raw.githubusercontent.com/Omarion-Gardner/Cybersecurity-Portfolio-/main/responder-start.png)
+
+- **Wireshark LLMNR Detection**  
+  ![Wireshark LLMNR Detection](https://raw.githubusercontent.com/Omarion-Gardner/Cybersecurity-Portfolio-/main/wireshark-llmnr.png)
+
+- **Email Alert from SIEM**  
+  ![LLMNR Email Alert](https://raw.githubusercontent.com/Omarion-Gardner/Cybersecurity-Portfolio-/main/llmnr-email-alert.png)
+
+---
+
+*This lab helped me grow from theory to practice by simulating attacks, detecting them in real-time, and responding quickly — key skills for a SOC analyst.*
